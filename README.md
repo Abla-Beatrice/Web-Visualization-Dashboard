@@ -1,3 +1,32 @@
-# Web-Design-Challenge
+# Visualization Dashboard 
 
-Use HTML, CSS and BOOTSTRAP to create a web page that displays visualizations and the data that is used to create the visualizations.
+Data is more powerful when we share it with others!
+
+Used HTML and CSS to create a dashboard showing off the analysis
+
+## Latitude Analysis Dashboard with Attitude
+
+* A [landing page](#landing-page) 
+
+  * An explanation of the project.
+  * Links to each visualizations page. 
+  * Sidebar containing preview images of each plot. 
+  * Clicking an image should take you to that visualization.
+
+* Four [visualization pages](#visualization-pages)
+
+  * The plot/visualization itself for the selected comparison.
+  * A paragraph describing the plot and its significance.
+
+* A ["Comparisons" page](#comparisons-page)
+  * Contains all of the visualizations on the same page so you can easily visually compare them.
+
+* A ["Data" page](#data-page) that:
+  * Displays a responsive table containing the data used in the visualizations.
+
+The website, at the top of every page, have a navigation menu that:
+
+* Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
+* Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
+* Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
+* Is responsive 

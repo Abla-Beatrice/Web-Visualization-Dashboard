@@ -21,12 +21,13 @@ Used HTML and CSS to create a dashboard showing off the analysis
 * A ["Comparisons" page](#comparisons-page)
   * Contains all of the visualizations on the same page so you can easily visually compare them.
 
-* A ["Data" page](#data-page) that:
+* A ["Data" page](#data-page)
   * Displays a responsive table containing the data used in the visualizations.
+
+## Web Design
 
 The website, at the top of every page, have a navigation menu that:
 
 * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-* Is responsive 

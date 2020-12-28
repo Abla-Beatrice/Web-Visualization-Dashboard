@@ -6,14 +6,14 @@ Used HTML and CSS to create a dashboard showing off the analysis
 
 ## Latitude Analysis Dashboard with Attitude
 
-* A [landing page](#landing-page) 
+* A [Landing page](#landing-page) 
 
   * An explanation of the project.
   * Links to each visualizations page. 
   * Sidebar containing preview images of each plot. 
   * Clicking an image should take you to that visualization.
 
-* Four [visualization pages](#visualization-pages)
+* Four [Visualization pages](#visualization-pages)
 
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
